@@ -1,6 +1,6 @@
 
 
-# <center> Очистка данных на Python  </center>:bowtie:
+# <center> Очистка данных на Python :bowtie: </center>
 ![Очистка](https://drive.google.com/uc?export=view&id=1nG6ZRDJOwICCdqUEW7B4jRlDA8P1lf3X)
 
 ## Оглавление
