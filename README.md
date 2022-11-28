@@ -1,7 +1,8 @@
 
 
-# <center> Очистка данных на Python </center>
-<center> ![Очистка](https://drive.google.com/uc?export=view&id=1nG6ZRDJOwICCdqUEW7B4jRlDA8P1lf3X) </center>
+# <center> Очистка данных на Python  </center>:bowtie:
+![Очистка](https://drive.google.com/uc?export=view&id=1nG6ZRDJOwICCdqUEW7B4jRlDA8P1lf3X)
+
 ## Оглавление
 1. [Описание проекта](#Описание-проекта)
 2. [Описание данных](#Описание-данных)
